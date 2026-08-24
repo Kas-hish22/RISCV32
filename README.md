@@ -58,8 +58,6 @@ The image above shows the final routed physical layout of the RV32I processor.
 | PDK flow | Sky130 |
 | Standard-cell library | Sky130 HD |
 | Core utilization | 55% target |
-| Final die area | 110544 |
-| Final core area | 99710.6 |
 | Standard-cell instances | 7551 |
 | I/O count | 37 |
 
